@@ -19,7 +19,7 @@ export default function SearchBar({
           value={inputValue}
           onChange={(e) => setInputValue(e.target.value)}
           placeholder={placeholder}
-          className="text-white h-10 w-5/6 px-4 py-2 bg-transparent focus:outline-none focus:ring-2 focus:ring-blue-500"
+          className="text-white placeholder-white h-10 w-5/6 px-4 py-2 bg-transparent focus:outline-none focus:ring-2 focus:ring-blue-500"
         />
         <button
           type="submit"

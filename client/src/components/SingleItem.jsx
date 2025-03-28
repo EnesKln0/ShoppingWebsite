@@ -177,7 +177,7 @@ export default function SingleItem() {
 
               <hr className="my-6 md:my-8 border-gray-200 p-2 mx-2" />
 
-              <p className="mb-6 text-gray-500">
+              <p className="mb-6">
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem
                 porro dolore iure molestiae, in culpa ipsum, neque qui
                 blanditiis, libero delectus expedita ut possimus. Dolor rerum ab

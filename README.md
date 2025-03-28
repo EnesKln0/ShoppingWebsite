@@ -47,3 +47,4 @@ A full-stack shopping website built with **React, Express, Tailwind CSS, Postgre
 ### Browser Compatibility
 
 - Browser specificity is used in the project for security and compatibility reasons, ensuring the application performs well across supported browsers.
+"# ShoppingWebsite" 
