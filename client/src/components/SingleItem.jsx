@@ -73,7 +73,9 @@ export default function SingleItem() {
                 {item.item_name}
               </h1>
               <div className="mt-4 sm:items-center sm:gap-4 sm:flex">
-                <p className="text-2xl font-extrabold sm:text-3xl">$1,249.99</p>
+                <p className="text-2xl font-extrabold sm:text-3xl">
+                  ${item.item_price}
+                </p>
 
                 <div className="flex items-center gap-2 mt-2 sm:mt-0">
                   <div className="flex items-center gap-1">

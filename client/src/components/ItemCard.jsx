@@ -11,7 +11,7 @@ export default function ItemCard({ item, onLike, onAddToCart, liked }) {
         />
       </Link>
       <div className="font-semibold">{item.item_name}</div>
-      <div className="font-semibold">$ {item.item_price}</div>
+      <div className="font-semibold">${item.item_price}</div>
       <div className="flex justify-between mt-4 items-center">
         <button
           onClick={() => onAddToCart(item)}
